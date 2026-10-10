@@ -28,3 +28,6 @@ Continuously improving my technical skills, building useful things, exploring AI
 
 **Learn. Build. Lead. Innovate. 🚀**
 
+**Gmail**: narayansahooc@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/chinmay-narayan-sahoo-035112297
+
