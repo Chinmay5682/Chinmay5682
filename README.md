@@ -1,6 +1,6 @@
 # Hey, I'm Chinmay 👋
 
-### Python Developer | AI Tools Builder | Prompt Engineering Enthusiast
+### Python Developer | Ex-Infosys Springboard intern | Prompt Engineering
 
 I'm passionate about technology, AI, and building practical solutions. I enjoy exploring new tools, experimenting with ideas, and developing my skills through hands-on learning.
 
