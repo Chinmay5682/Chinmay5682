@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Chinmay 👋
 
-<!--
-**Chinmay5682/Chinmay5682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | AI Tools Builder | Prompt Engineering Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about technology, AI, and building practical solutions. I enjoy exploring new tools, experimenting with ideas, and developing my skills through hands-on learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Exploring Python programming and software development.
+- 🤖 Learning Prompt Engineering and AI-powered tools.
+- 🌐 Exploring web development and application building.
+- ⚙️ Experimenting with automation and developer tools.
+- 🚀 Interested in AI products, SaaS, and technology entrepreneurship.
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, C, HTML, CSS
+- **Web Development:** React, Tailwind CSS, Flask, Streamlit
+- **AI & Automation:** Prompt Engineering, AI Tools, n8n
+- **Tools:** Git, GitHub, VS Code
+
+## 🌱 Leadership & Community
+
+- **E-Cell, Ambedkar Institute of Technology:** Co-founded and helped lead the entrepreneurship cell, supporting student innovation and entrepreneurial initiatives.
+- **GeeksforGeeks & Microsoft Communities:** Built and managed a student technology community that grew to **700+ members**, connecting students around learning opportunities, technology, and community engagement. The community has since been closed.
+
+## 🎯 My Focus
+
+Continuously improving my technical skills, building useful things, exploring AI, and turning ideas into practical products.
+
+**Learn. Build. Lead. Innovate. 🚀**
+
